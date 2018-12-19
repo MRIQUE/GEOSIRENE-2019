@@ -192,7 +192,7 @@ namespace GeoSirene
             {
                 DestinationTableName = "StockEtablissement";
                 strFields = "siren,nic,siret,statutDiffusionEtablissement,dateCreationEtablissement,trancheEffectifsEtablissement,anneeEffectifsEtablissement,activitePrincipaleRegistreMetiersEtablissement,dateDernierTraitementEtablissement,etablissementSiege,nombrePeriodesEtablissement,complementAdresseEtablissement,numeroVoieEtablissement,indiceRepetitionEtablissement,typeVoieEtablissement,libelleVoieEtablissement,codePostalEtablissement,libelleCommuneEtablissement,libelleCommuneEtrangerEtablissement,distributionSpecialeEtablissement,codeCommuneEtablissement,codeCedexEtablissement,libelleCedexEtablissement,codePaysEtrangerEtablissement,libellePaysEtrangerEtablissement,complementAdresse2Etablissement,numeroVoie2Etablissement,indiceRepetition2Etablissement,typeVoie2Etablissement,libelleVoie2Etablissement,codePostal2Etablissement,libelleCommune2Etablissement,libelleCommuneEtranger2Etablissement,distributionSpeciale2Etablissement,codeCommune2Etablissement,codeCedex2Etablissement,libelleCedex2Etablissement,codePaysEtranger2Etablissement,libellePaysEtranger2Etablissement,dateDebut,etatAdministratifEtablissement,enseigne1Etablissement,enseigne2Etablissement,enseigne3Etablissement,denominationUsuelleEtablissement,activitePrincipaleEtablissement,nomenclatureActivitePrincipaleEtablissement,caractereEmployeurEtablissement,longitude,latitude,geo_score,geo_type,geo_adresse,geo_id,geo_ligne,geo_l4,geo_l5,SourceFileName".Split(',');
-                strFieldsTypes = "String,String,String,String,DateTime,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,DateTime,String,String,String,String,String,String,String,String,float,float,float,String,String,String,String,String,String,String".Split(',');
+                strFieldsTypes = "String,String,String,String,DateTime,String,String,String,DateTime,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,DateTime,String,String,String,String,String,String,String,String,float,float,float,String,String,String,String,String,String,String".Split(',');
                 GeoSirene.Columns.Add("siren", typeof(String));
                 GeoSirene.Columns.Add("nic", typeof(String));
                 GeoSirene.Columns.Add("siret", typeof(String));
@@ -201,7 +201,7 @@ namespace GeoSirene
                 GeoSirene.Columns.Add("trancheEffectifsEtablissement", typeof(String));
                 GeoSirene.Columns.Add("anneeEffectifsEtablissement", typeof(String));
                 GeoSirene.Columns.Add("activitePrincipaleRegistreMetiersEtablissement", typeof(String));
-                GeoSirene.Columns.Add("dateDernierTraitementEtablissement", typeof(String));
+                GeoSirene.Columns.Add("dateDernierTraitementEtablissement", typeof(DateTime));
                 GeoSirene.Columns.Add("etablissementSiege", typeof(String));
                 GeoSirene.Columns.Add("nombrePeriodesEtablissement", typeof(String));
                 GeoSirene.Columns.Add("complementAdresseEtablissement", typeof(String));

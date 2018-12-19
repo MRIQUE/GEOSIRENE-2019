@@ -16,3 +16,12 @@ D:\Personal\ETL\alacroix\12132018\GeoSirene\GeoSirene\bin\Debug\SevenZipExtracto
 D:\Personal\ETL\alacroix\12132018\GeoSirene\GeoSirene\obj\Debug\GeoSirene.exe
 D:\Personal\ETL\alacroix\12132018\GeoSirene\GeoSirene\obj\Debug\GeoSirene.pdb
 D:\Personal\ETL\alacroix\12132018\GeoSirene\GeoSirene\obj\Debug\GeoSirene.csprojResolveAssemblyReference.cache
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\GeoSirene.exe.config
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\obj\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\obj\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\x64\7z.dll
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\x86\7z.dll
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\bin\Debug\SevenZipExtractor.dll
+D:\Personal\ETL\alacroix\12132018\GeoSireneDownloadData\GeoSirene\obj\Debug\GeoSirene.csprojResolveAssemblyReference.cache

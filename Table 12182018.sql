@@ -69,6 +69,8 @@ go
 CREATE TABLE [dbo].[StockEtablissement](
 	[StockEtablissementID] [bigint] IDENTITY(1,1) NOT NULL,
 	siren varchar(16)
+	,nic varchar(16)
+	,siret varchar(16)
 	,statutDiffusionEtablissement varchar(8)
 	,dateCreationEtablissement date
 	,trancheEffectifsEtablissement varchar(8)
